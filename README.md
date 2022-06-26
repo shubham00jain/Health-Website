@@ -15,7 +15,7 @@ Steps to run this website in your local:
 
 Or Visit the website live (it might stop working because I use unpaid version of heroku):
 
- https://health-web-app.herokuapp.com/
+https://health-website.herokuapp.com/
 
 ## Technologies used:
 * #### Node.js, Express.js (for backend server)
